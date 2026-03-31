@@ -1093,7 +1093,8 @@ export default function Home() {
   // Initialize map (wait for Leaflet to load)
   useEffect(() => {
     const L = leafletRef.current;
-    if (!leafletReady || !L || mapRef.current || !mapContainerRef.current) return;
+    if (!leafletReady || loading || !L || mapRef.current || !mapContainerRef.current) return;
+    if (!services.length) return; // wait for data before drawing markers
 
     const initialCenter = userLocation || DEFAULT_MAP_CENTER;
     const initialZoom = userLocation ? USER_LOCATION_ZOOM : DEFAULT_MAP_ZOOM;
@@ -1182,7 +1183,7 @@ export default function Home() {
       setIsSatelliteView(false);
       setMapReady(false);
     };
-  }, [leafletReady, userLocation, services]);
+  }, [leafletReady, userLocation, services, loading]);
 
   useEffect(() => {
     if (!mapReady || !mapRef.current || !leafletRef.current) return;
