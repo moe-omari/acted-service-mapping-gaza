@@ -1,0 +1,939 @@
+﻿[
+  {
+    "id": 1,
+    "name": "TLS/School",
+    "service_name": "Al-AmalSchool  (Ya Hala)",
+    "org": "Maahad Al Amal for Orphans",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519588,
+      "longitude": 34.449861
+    },
+    "focal": "",
+    "focal phone number": ""
+  },
+  {
+    "id": 2,
+    "name": "TLS/School",
+    "service_name": "Najah Despite Hope  Initiative",
+    "org": "Turkish Phoenix Project",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519762,
+      "longitude": 34.449572
+    },
+    "focal": "Ms. Wafaa Abu Sabha",
+    "focal phone number": "595392626"
+  },
+  {
+    "id": 3,
+    "name": "Health space/Clinic",
+    "service_name": "Al-Amal Medical  Institute Point",
+    "org": "Juthoor",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519805,
+      "longitude": 34.449919
+    },
+    "focal": "Dr. Ibrahim Rabee",
+    "focal phone number": "599181885"
+  },
+  {
+    "id": 4,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519829,
+      "longitude": 34.449606
+    },
+    "focal": "Ahmed Al-Za‘anin",
+    "focal phone number": "595559144"
+  },
+  {
+    "id": 5,
+    "name": "Water trucking distribution point",
+    "service_name": "Water Desalination  Station",
+    "org": "Apple Australia",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519961,
+      "longitude": 34.449563
+    },
+    "focal": "Eyad Najm",
+    "focal phone number": "597887880"
+  },
+  {
+    "id": 6,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.518946,
+      "longitude": 34.450153
+    },
+    "focal": "Ahmed Al-Za‘anin",
+    "focal phone number": "595559144"
+  },
+  {
+    "id": 7,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.518916,
+      "longitude": 34.450755
+    },
+    "focal": "Ahmed Al-Za‘anin",
+    "focal phone number": "595559144"
+  },
+  {
+    "id": 8,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519228,
+      "longitude": 34.451001
+    },
+    "focal": "Ahmed Al-Za‘anin",
+    "focal phone number": "595559144"
+  },
+  {
+    "id": 9,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Ambulance and Emergency",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519169,
+      "longitude": 34.451395
+    },
+    "focal": "Akram Al-Za‘anin",
+    "focal phone number": "597057686"
+  },
+  {
+    "id": 10,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519609,
+      "longitude": 34.451769
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 11,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "Juthoor",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.51967,
+      "longitude": 34.451663
+    },
+    "focal": "Mohammad Abu Jarad",
+    "focal phone number": "599362177"
+  },
+  {
+    "id": 12,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Ambulance and Emergency",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519645,
+      "longitude": 34.451919
+    },
+    "focal": "Akram Al-Za‘anin",
+    "focal phone number": "597057686"
+  },
+  {
+    "id": 13,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520348,
+      "longitude": 34.452621
+    },
+    "focal": "Ayman Mushtaha",
+    "focal phone number": "599717818"
+  },
+  {
+    "id": 14,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "MSF",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520153,
+      "longitude": 34.4524
+    },
+    "focal": "Abu Nasr Sukkar",
+    "focal phone number": "567209253"
+  },
+  {
+    "id": 15,
+    "name": "TLS/School",
+    "service_name": "Educational Point",
+    "org": "SWF",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520469,
+      "longitude": 34.452106
+    },
+    "focal": "Ms. Sally Abu Shaaban",
+    "focal phone number": "562233181"
+  },
+  {
+    "id": 16,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520638,
+      "longitude": 34.452301
+    },
+    "focal": "Ahmed Al-Za‘anin",
+    "focal phone number": "595559144"
+  },
+  {
+    "id": 17,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "CRS",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520745,
+      "longitude": 34.452443
+    },
+    "focal": "Omar Daghmash",
+    "focal phone number": "593690700"
+  },
+  {
+    "id": 18,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520931,
+      "longitude": 34.452099
+    },
+    "focal": "Ayman Mushtaha",
+    "focal phone number": "599717818"
+  },
+  {
+    "id": 19,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Cesvi",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521097,
+      "longitude": 34.452347
+    },
+    "focal": "Eng. Fawzi Tanira",
+    "focal phone number": "592620707"
+  },
+  {
+    "id": 20,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521326,
+      "longitude": 34.451155
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 21,
+    "name": "TLS/School",
+    "service_name": "Great Gaza Minds  School",
+    "org": "Initiators",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521512,
+      "longitude": 34.451216
+    },
+    "focal": "Mr. Ahmed Abu Rizq",
+    "focal phone number": "597343806"
+  },
+  {
+    "id": 22,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Cesvi",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521326,
+      "longitude": 34.451155
+    },
+    "focal": "Eng. Fawzi Tanira",
+    "focal phone number": "592620707"
+  },
+  {
+    "id": 23,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Acted",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521326,
+      "longitude": 34.451155
+    },
+    "focal": "Anas Al-Mallahi",
+    "focal phone number": "597659886"
+  },
+  {
+    "id": 24,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521238,
+      "longitude": 34.45182
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 25,
+    "name": "Water trucking distribution point",
+    "service_name": "Water Desalination  Station",
+    "org": "PARC",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521416,
+      "longitude": 34.451601
+    },
+    "focal": "Abu Fares Abu Namos",
+    "focal phone number": "599375530"
+  },
+  {
+    "id": 26,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520609,
+      "longitude": 34.450797
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 27,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520212,
+      "longitude": 34.451171
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 28,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519736,
+      "longitude": 34.450916
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 29,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520546,
+      "longitude": 34.450047
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 30,
+    "name": "Community Kitchen",
+    "service_name": "Hot Food Distribution  Point",
+    "org": "WCK",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521514,
+      "longitude": 34.449919
+    },
+    "focal": "Karam Jabr",
+    "focal phone number": "599891408"
+  },
+  {
+    "id": 31,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "MSF",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521514,
+      "longitude": 34.449919
+    },
+    "focal": "",
+    "focal phone number": "592757564"
+  },
+  {
+    "id": 32,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Rahma Worldwide",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.521514,
+      "longitude": 34.449919
+    },
+    "focal": "Hamza Haboush",
+    "focal phone number": "598763149"
+  },
+  {
+    "id": 33,
+    "name": "TLS/School",
+    "service_name": "Educational Point:  Amal & Noor",
+    "org": "Personal volunteering by \nlocal teachers",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.521887,
+      "longitude": 34.440941
+    },
+    "focal": "Dima Al-Bitar",
+    "focal phone number": "599012111"
+  },
+  {
+    "id": 34,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Cesvi",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.521466,
+      "longitude": 34.442595
+    },
+    "focal": "Mohammad Al-Masri",
+    "focal phone number": "599593504"
+  },
+  {
+    "id": 35,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Cesvi",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.522112,
+      "longitude": 34.442779
+    },
+    "focal": "Mohammad Al-Masri",
+    "focal phone number": "599593504"
+  },
+  {
+    "id": 36,
+    "name": "Water trucking distribution point",
+    "service_name": "Water Desalination  Station",
+    "org": "Private Initiator",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.524385,
+      "longitude": 34.441384
+    },
+    "focal": "Mohammad Al-Nawati",
+    "focal phone number": "597846429"
+  },
+  {
+    "id": 37,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Private Initiator",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.524305,
+      "longitude": 34.441202
+    },
+    "focal": "Mohammad Al-Nawati",
+    "focal phone number": "597846429"
+  },
+  {
+    "id": 38,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Private Initiator",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.524605,
+      "longitude": 34.44199
+    },
+    "focal": "Ahmed Kaheel",
+    "focal phone number": "597350242"
+  },
+  {
+    "id": 39,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Private Initiator",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.525881,
+      "longitude": 34.44291
+    },
+    "focal": "Bader Al-Dayya",
+    "focal phone number": "594367623"
+  },
+  {
+    "id": 40,
+    "name": "Water trucking distribution point",
+    "service_name": "Water Desalination  Station",
+    "org": "CMWU",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.526214,
+      "longitude": 34.445642
+    },
+    "focal": "Rasha Al-Aali",
+    "focal phone number": "564367623"
+  },
+  {
+    "id": 41,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "Project HOPE",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.526284,
+      "longitude": 34.44555
+    },
+    "focal": "Dr. Ahmed Abed",
+    "focal phone number": "595802192"
+  },
+  {
+    "id": 42,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Private Initiator",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.525881,
+      "longitude": 34.44291
+    },
+    "focal": "Tariq Abu Diya",
+    "focal phone number": "599710002"
+  },
+  {
+    "id": 43,
+    "name": "Community Kitchen",
+    "service_name": "Takiyya",
+    "org": "HEAL Palestine & WCK",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.527244,
+      "longitude": 34.448283
+    },
+    "focal": "Khaled Al-Sweity",
+    "focal phone number": "597346431"
+  },
+  {
+    "id": 44,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Personal volunteering by \nthe Al-Ghoul family",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.527956,
+      "longitude": 34.446458
+    },
+    "focal": "Mohyeddin Al-Ghoul",
+    "focal phone number": "599469540"
+  },
+  {
+    "id": 45,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Personal volunteering by \nthe subh family",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.528165,
+      "longitude": 34.447012
+    },
+    "focal": "Abdullah Abdul Aziz",
+    "focal phone number": "599604260"
+  },
+  {
+    "id": 46,
+    "name": "TLS/School",
+    "service_name": "Educational Point",
+    "org": "UNRWA",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.528289,
+      "longitude": 34.448034
+    },
+    "focal": "Riyad Al-Khalidi",
+    "focal phone number": "597965525"
+  },
+  {
+    "id": 47,
+    "name": "TLS/School",
+    "service_name": "Educational Point",
+    "org": "UNRWA",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.528636,
+      "longitude": 34.4486
+    },
+    "focal": "Hussam Al-Najjar",
+    "focal phone number": "599644060"
+  },
+  {
+    "id": 48,
+    "name": "TLS/School",
+    "service_name": "Educational Point",
+    "org": "UNRWA",
+    "area": "Al-Shifa area",
+    "coordinates": {
+      "latitude": 31.528221,
+      "longitude": 34.448817
+    },
+    "focal": "Mira Abu Jabra",
+    "focal phone number": "599866452"
+  },
+  {
+    "id": 49,
+    "name": "Distribution point",
+    "service_name": "Aid distribution center",
+    "org": "Gaza Soup Kitchen",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.5,
+      "longitude": 34.455109
+    },
+    "focal": "",
+    "focal phone number": ""
+  },
+  {
+    "id": 50,
+    "name": "TLS/School",
+    "service_name": "Educational Point",
+    "org": "Atyaf Al-Khair",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.515901,
+      "longitude": 34.452359
+    },
+    "focal": "",
+    "focal phone number": ""
+  },
+  {
+    "id": 51,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Save the Children",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.515901,
+      "longitude": 34.452359
+    },
+    "focal": "",
+    "focal phone number": ""
+  },
+  {
+    "id": 52,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "Doctors of the World – France",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.518652,
+      "longitude": 34.454972
+    },
+    "focal": "Mohammed Abu Hashish",
+    "focal phone number": "595699644"
+  },
+  {
+    "id": 53,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "AWDA",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.517387,
+      "longitude": 34.455109
+    },
+    "focal": "",
+    "focal phone number": ""
+  },
+  {
+    "id": 54,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "The Qatari Committee",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520503,
+      "longitude": 34.448681
+    },
+    "focal": "Khader Abu Jarlad",
+    "focal phone number": "599542556"
+  },
+  {
+    "id": 55,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "NECC",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.520503,
+      "longitude": 34.448681
+    },
+    "focal": "Asmaa Hassan",
+    "focal phone number": "599530181"
+  },
+  {
+    "id": 56,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Oxfam",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.524079,
+      "longitude": 34.452256
+    },
+    "focal": "Mohammed Abu Hashish",
+    "focal phone number": "595699644"
+  },
+  {
+    "id": 57,
+    "name": "Water trucking distribution point",
+    "service_name": "Saline Water  Distribution Point",
+    "org": "Oxfam",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519854,
+      "longitude": 34.451273
+    },
+    "focal": "Mohammed Abu Hashish",
+    "focal phone number": "595699644"
+  },
+  {
+    "id": 58,
+    "name": "Water trucking distribution point",
+    "service_name": "Potable Water  Distribution Point",
+    "org": "Acted",
+    "area": "Schools area",
+    "coordinates": {
+      "latitude": 31.519854,
+      "longitude": 34.451273
+    },
+    "focal": "Anas Al-Malahi",
+    "focal phone number": "597659886"
+  },
+  {
+    "id": 59,
+    "name": "Bakery",
+    "service_name": "Bakery for bread in Bakar Yunis",
+    "org": "ICRC",
+    "area": "Al-Rimal middle area",
+    "coordinates": {
+      "latitude": 31.52605,
+      "longitude": 34.45435
+    },
+    "focal": "Bakar Yunis",
+    "focal phone number": "594051045"
+  },
+  {
+    "id": 60,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "Palestinian Medical Relief Society",
+    "area": "Al-Rimal middle area",
+    "coordinates": {
+      "latitude": 31.51991,
+      "longitude": 34.44432
+    },
+    "focal": "",
+    "focal phone number": ""
+  },
+  {
+    "id": 61,
+    "name": "Health space/Clinic",
+    "service_name": "Medical Point",
+    "org": "National Rehabilitation Association",
+    "area": "Al-Rimal middle area",
+    "coordinates": {
+      "latitude": 31.52571,
+      "longitude": 34.45418
+    },
+    "focal": "Ahmed Al-Ra’i",
+    "focal phone number": "568794440"
+  },
+  {
+    "id": 487,
+    "name": "Health Space/Clinic - Al-Shifa Hospital - phone need to edit",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.524323, "longitude": 34.443496 }
+  },
+  {
+    "id": 488,
+    "name": "Health Space/Clinic - Public Aid Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.510274, "longitude": 34.458461 }
+  },
+  {
+    "id": 496,
+    "name": "Health Space/Clinic - PRCS Saraya Field Hospital Gaza City",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.513708, "longitude": 34.450543 }
+  },
+  {
+    "id": 497,
+    "name": "Health Space/Clinic - PRCS Al-Quds Hospital Gaza City",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.505935, "longitude": 34.430417 }
+  },
+  {
+    "id": 498,
+    "name": "Health Space/Clinic - Patient Friends Benevolent Society",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.517585, "longitude": 34.4455 }
+  },
+  {
+    "id": 503,
+    "name": "Health Space/Clinic - Kamal Adwan",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5381144, "longitude": 34.5004937 }
+  },
+  {
+    "id": 504,
+    "name": "Health Space/Clinic - Al Karama",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5424315, "longitude": 34.4698757 }
+  },
+  {
+    "id": 505,
+    "name": "Health Space/Clinic - Mohamed Al Durrah Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5141216, "longitude": 34.4795944 }
+  },
+  {
+    "id": 506,
+    "name": "Health Space/Clinic - Al-Rantisi",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5322038, "longitude": 34.4613879 }
+  },
+  {
+    "id": 507,
+    "name": "Health Space/Clinic - Al Helou International Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.525192, "longitude": 34.4474923 }
+  },
+  {
+    "id": 508,
+    "name": "Health Space/Clinic - Al Wafaa Rehabilitation Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.513549, "longitude": 34.4526613 }
+  },
+  {
+    "id": 509,
+    "name": "Health Space/Clinic - Assahaba Medical Complex",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5176331, "longitude": 34.4595661 }
+  },
+  {
+    "id": 510,
+    "name": "Health Space/Clinic - Al Ahli Arab Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5053254, "longitude": 34.4617348 }
+  },
+  {
+    "id": 511,
+    "name": "Health Space/Clinic - Haifa Charity Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5075803, "longitude": 34.4724815 }
+  },
+  {
+    "id": 512,
+    "name": "Health Space/Clinic - St. John's Eye Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5132772, "longitude": 34.4379915 }
+  },
+  {
+    "id": 516,
+    "name": "Health Space/Clinic - IMC Field Hospital",
+    "siteName": "",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": { "latitude": 31.5171941, "longitude": 34.4371911 }
+  }
+]
